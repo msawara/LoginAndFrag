@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">New user?</string>
+    <string name="register_user_name">User name</string>
+    <string name="register_first_name">First name</string>
+    <string name="register_last_name">Last name</string>
+    <string name="register_password">Password</string>
+    <string name="register_register">Register</string>
+    <string name="register_email">Email</string>
+    <string name="title_activity_todolist">ToDoList</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

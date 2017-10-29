@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mainmenu.FirstFragment"
+    android:weightSum="1">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="373dp"
+        android:layout_height="245dp"
+        android:layout_weight="0.80"
+        android:text="Map" />
+
+    <Button
+       android:id="@+id/btn1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Button1" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button2" />
+
+</LinearLayout>
